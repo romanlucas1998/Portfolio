@@ -1,0 +1,93 @@
+body{
+    background-color:rgba(158, 121, 121, 0.902);
+    color:black; 
+}
+#nombre{
+    color: rgb(0, 0, 0);
+    text-align: center;
+
+}
+p{
+    font-size: 20px;
+}
+
+li{
+    font-size:20px; 
+}
+h2 {
+    font-size: 45px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.contenedor1{
+    margin:  auto;
+    border-radius: 24px;
+    background-color: #ffffffc9;
+    width: 796px;
+   padding: 13mm;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.contenedor2{
+    margin: 5px auto;
+    border-top: 2mm;
+    border-radius: 24px;
+    background-color: #ffffffc9;
+    width: 800px;
+    padding: 13mm;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.contenedor3{
+    margin: 5px auto;
+    border-radius: 24px;
+    background-color:#ffffffc9;
+    width: 800px;
+    padding: 13mm;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.MiInfoList {
+    
+    display: inline-table;
+    width: 357px;
+    height: 418px;
+    background: none;
+    color: black;
+}
+#Foto1 {
+    display: block;
+    width: 250px;
+}
+.contenedor4{
+position: fixed;
+    display: flex;
+    flex-direction: column;
+    top: 3vw;
+    left: 0.4vw;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+ .contenedor4 a{
+    background-color: #ffffffc9;
+    font-size: 1.6vw;
+    line-height: 2vw;
+    padding: 1vw;
+    font-variant: all-petite-caps;
+    text-decoration: none;
+    color: black;
+    border-radius: 2vw;
+    min-width: 13vw;
+    text-align: center;
+    margin-top: 1vw;
+}
+.contenedor5 {margin: 5px auto;
+border-radius: 24px;
+background-color:#ffffffc9;
+width: 800px; 
+padding: 13mm;
+height: 291px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.DivHijo{
+    width: 131px;
+    height: 105px;
+    border-radius: 27ex;
+    float: left;
+    margin: 14px;
+}
